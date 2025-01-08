@@ -9,6 +9,8 @@ My expertise lies in designing and implementing microservices within complex arc
 I'm a highly motivated and results-oriented individual with a strong desire for continuous learning and improvement. I'm eager to apply new technologies and methodologies to enhance the quality and performance of the software I develop.
 
 ## Connect with me:
+[<img src="https://davidcorto.es/android-chrome-192x192.png" width="30" height="30"/>](https://davidcorto.es)&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/linkedin.png" width="30" height="30"/>](https://www.linkedin.com/in/davidcortocamacho/)&nbsp; 
 [<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/x-light.png" width="30" height="30"/>](https://x.com/davidcorto)&nbsp;
 [<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/bluesky.png" width="30" height="30"/>](https://bsky.app/profile/davidcorto.bsky.social)&nbsp; 
+
